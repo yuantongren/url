@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#BuildDate:20231211.225023
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1"tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://39.135.133.174:80/wh7f454c46tw2613480358_1843217869/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?rrsip=ottrrs.hl.chinamobile.com&zoneoffset=0&servicetype=&vqe=3
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2"tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
